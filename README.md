@@ -1,9 +1,9 @@
 # Hi, I'm Giselle Liu @gisVC 👩‍💼🚀
 
-## About Me 📘
-🔭 Holding a BA in Telecom and currently pursuing an MS in Analytics.
-👯 I'm looking to collaborate on fun and meaningful projects!
-📊 I have a passion for translating data into compelling stories.
+## Giselle WHO? 📘
+- 🔭 Holding a BA in Telecom and currently pursuing an MS in Analytics.
+- 👯 I'm looking to collaborate on fun and meaningful projects!
+- 📊 I have a passion for translating data into compelling stories.
 
 ## My Interests 🌟
 - 📈 I'm interested in data analysis and visualization.
@@ -14,7 +14,7 @@
 - 🤝 I'm looking to collaborate on innovative data projects, especially in the realm of finance and market analysis.
 - 🌱 If you're looking for a partner to brainstorm and build with, I'm your person.
 
-## Reach Out 📬
+## Let's gossip about... 📬
 - 📫 How to reach me: [sogisellelau@gmail.com](mailto:sogisellelau@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gsl01/)
 
