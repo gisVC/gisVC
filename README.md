@@ -15,7 +15,7 @@
 
 ## Reach Out
 - How to reach me: [sogisellelau@gmail.com](mailto:youremail@example.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gsl01/)
 
 <!---
 gisVC/gisVC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
