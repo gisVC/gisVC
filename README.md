@@ -6,13 +6,12 @@
 - 📊 I have a passion for translating data into compelling stories.
 
 ## My Interests 🌟
-- 📈 I'm interested in data analysis and visualization.
+- 📈 I'm interested in data analysis.
 - 💡 Passionate about finding patterns in data and turning them into actionable insights.
 - 🎯 Love working on projects that require strategic thinking and creative solutions.
 
 ## Collaborative Work 👥
-- 🤝 I'm looking to collaborate on innovative data projects, especially in the realm of finance and market analysis.
-- 🌱 If you're looking for a partner to brainstorm and build with, I'm your person.
+- 🤝 I'm looking to collaborate on innovative data projects.
 
 ## Let's gossip about... 📬
 - 📫 How to reach me: [sogisellelau@gmail.com](mailto:sogisellelau@gmail.com)
