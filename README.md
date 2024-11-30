@@ -1,4 +1,4 @@
-![MasterHead](https://mindcraft.ai/wp-content/uploads/2022/12/Data-Science-Institute_banner.jpg)
+![MasterHead](https://dirkjan.co/wp-content/uploads/2018/04/adobe-big-data-loaders.gif)
 <h1 align="center">👋 Hello, I'm Giselle Liu! </h1>
 <h3 align="center">🐬 Turning data into stories, one analysis at a time 🐬</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtnazc4b2JxYmkxZmxoZjQ0OThjb2dmN3E0ZzhtMGVxbnUzYXI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
