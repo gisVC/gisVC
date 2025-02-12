@@ -16,5 +16,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gisvc&show_icons=true&locale=en" alt="gisvc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisvc&" alt="gisvc" /></p>
